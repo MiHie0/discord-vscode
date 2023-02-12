@@ -1,0 +1,4 @@
+git clone https://github.com/your-username/discord-vscode.git
+git checkout -b my-new-feature
+git commit -am 'Add some feature'
+ git push origin my-new-feature
